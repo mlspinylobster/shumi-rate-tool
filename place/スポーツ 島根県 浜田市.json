@@ -1,0 +1,158 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "56-6 Asaicho, Hamada, Shimane Prefecture 697-0022, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.9020997,
+               "lng" : 132.0883241
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f679508a73fe7614a9b2f1ca9f4d013edd3f289d",
+         "name" : "ｍ−ｓｐｏｒｔｓ浜田店",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113895979673832497726/photos\"\u003e加藤佑典\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALB7mdIT9mzUgiRfUC31r5QW_UeG_uH9ftVTBm-1yaTmjzz9mYRmvGTfdOaL1B_xqTa746HlNuM-XP10gszZXfiq4XYqy6LipSaHtQ2mMa7FxceBgTHBcLwoB-n7mB2WrDMy8LE0MhTaeuuz9kt53BqfrYLGOgajwXsbmx_4d1k6EhCH7MFPINzLVwsEq_SHLMHbGhTBxiUDkuM8QguNOxu5zQn0VDq8dQ",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJHVUztMJZWjURtQMOy9s8wEM",
+         "reference" : "CmRRAAAAooI0gu24WOLL9TvwHVYAb7GO2yFd26-uBwJH2HC4XhEzNEHdLvQgC9RiKcVr4NXV4FIuMbBlmP6B6imUnF4b4kIMiE5ubVITgo7RE3OU0CYy0JwChZotihDMXSSoOyOVEhDzPtPdnvlyJxXeqPMmsg3EGhTTKX8f5w63ABEsKWtA-cgZgVEY4Q",
+         "types" : [ "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "3735 Kurokawacho, Hamada, Shimane Prefecture 697-0024, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.90209280000001,
+               "lng" : 132.0941519
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "3677649ac6671ec40e5bea01046603060cac8f55",
+         "name" : "島根県立体育館",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107766688187264421010/photos\"\u003eIwami Kagura\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAABFwTRqphGbGm2ukHvE9qZLsjZEUfF4k1Xt9aLVVwFdGWQZwrvg3cFrThhb3J3nof98_RDUxREUjLnpTz2TQlDmWzCD0Dbx2WqL21cqWNF6CdroTWeNrf1_f88BjC_M-4JJ_HfuAndGx5ZH0bnPiWZwOeYWClip4Ez_KJGqwtRafEhBY3n3nj5InvVGqQEBOK0hhGhRMO0V__hp5fnsh8GEyoalvXEbbuw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ33HEOOpZWjURPylw3EE4fMo",
+         "reference" : "CmRSAAAAe6TfFBzJyHsS_2Z0-umX__IeWT7DZ5wMrQCyUPCG4sOm2va4WzXDaYLHHFOcjJb3epWU5oNXDXQWY49ugSaOWVRUCywHttINA1IE3lCSulihu-awZ-j9xwRWhdxmQcolEhCAV18OYNoYcJoe-ttgKNIJGhTNyuk2lSrykJQqjXZl68P4vtkp3A",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "4189 Kurokawacho, Hamada, Shimane Prefecture 697-0024, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.9014193,
+               "lng" : 132.0899406
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "e89cb7aaaa7cd577957f168771224ce351605008",
+         "name" : "ファイテン浜田 特約店",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113895979673832497726/photos\"\u003e加藤佑典\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJLMJoS9uNvybKdgnFjKdLktw96usVMoN0MbDjf23jDp7KfKZzm055NcqHn8V2fIVG8Y3PFwI9g6vO937a8Rs3zqlzLK76wrY4NaIoqdsa1R2mSk5LVn_RRWiLroa1Gy2UgYncaHTwg8BAmoicfrd_BHoWMqF0naioP5Xa2UiOgxEhAyKPuL6y52vAWjLx9G7jJkGhS_gOrMPvqEIxIZC-EtHKsa_ry-dw",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJw76BjcJZWjUR07XKNY-_iJ8",
+         "reference" : "CmRSAAAA370KFr82aVQRqBjxlFp_-woU-xK08n__QAWCCuw_VEsjty35AJ1Xyx6S7MgCIy0CU3ZNyy5uqBe1A3pZ7TjkSSGt3Ezg7gvC8dZpRzGr9DQVUmKYHrR7UfxUhtp35U4CEhA-Gy_ZPL4XTf7qOLvPDuCoGhRFwNvwaHak5suKvGTLUSy-bIUUsQ",
+         "types" : [ "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1240-1 Misumicho Saigouchi, Hamada, Shimane Prefecture 699-3223, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.79595189999999,
+               "lng" : 131.9478976
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e24c0ac5cda1b1e4eb1a309bc22fe5b9d9bb27f0",
+         "name" : "浜田市三隅Ｂ＆Ｇ海洋センター",
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114573047915595439908/photos\"\u003e安部雅文\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABCxPonwJUNM99U434rTJ-F0gZomTaC5rj-zyi0fbd_RTAzOyXryjQTQ6lQwu3k2XBDdJCLjhvQ8zz1vuHb1UFzfv9Elh1ysKqG78uPJQ0WEcZ3JwgrdX5HAwftVM3YuUudnjzLi1-vIipL38bei83De1kygthds3s2aw4Fh0udQEhC5feHes_MlpcNsQMn_oaG3GhSWUcI6X9Bt1ncFLbfdHiw4tnQugQ",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJX38X9Aj9WjURdM9Ab6UY8D8",
+         "reference" : "CmRRAAAA29F-PjOZsyXsqPpk_9l3ieuk8bGe8Jpi7E_oUC7O--Qf6bFTc-EeFDcTgWyYgrDnclc12AHnttdLftsEfHDlj7VtOsUPwl6rzInL1tD0qLmGiYhYo71v-JIMYussI08rEhA1pi9HKlef6R3Ftp7gEJlVGhT3ZdclUF4ZzrRF5KlNFy07LU-yGA",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "4196 Kurokawacho, Hamada, Shimane Prefecture 697-0024, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.900828,
+               "lng" : 132.090638
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bcfc4b5826146a7f2bd057de9b92d996276c1d9a",
+         "name" : "（有）セントラルスポーツ",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113895979673832497726/photos\"\u003e加藤佑典\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJpElbtjko-AXH0XTAZ895VK6Rfk8-W1G2N2FCXv0fIpp-63N9TbLQnIWrLwSNILx3jPuUeR4ByAghKVU3LCaiJTcKTpmEgNPY8-P7-dwMphykEz7D8yUfiIo8mhSYqc1mBzUaz2dMXG88WO-pV0LhajSgHFV5lwzT17QmUZQjvtEhALuJf2hL8vGXD86YAsXs4iGhS-nUxGRcayNqBK4EVSgV2j6S9Nfg",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ228KX8JZWjURIEDyoPccADg",
+         "reference" : "CmRRAAAAaaeFVSw9VUGnRJMHcXujX9afIRyRZAeoAikVmfNkMLi1PK7Ylay3day5W-37U4Izg07jwKl7udkw25ImaPurhnJ4FRdbA9beCR3GGfQN6zcjkT217svjeEa8rpwIO_vuEhB-R2Rx8bmfdKZ_rA73O0s8GhTeuNN6ls3OBNlGbOM9esZVc9OUXA",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒697-0123 島根県浜田市金城町七条イ−982",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.864693,
+               "lng" : 132.166408
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "ee0a168539c6acdaec5b2b8736b139a6a75cfdbb",
+         "name" : "ふれあいジム・かなぎ",
+         "place_id" : "ChIJC4bJUM9eWjURGd03lKcYHdI",
+         "reference" : "CmRSAAAAfEDYDvujaEgm2tFZZVqzsV6GIHAt1PmVP43-sdWRBe8Mewb0CMnCxrYtOg8q5NELDp1CK1smH7twvsYtjWHPkyEXTtJRKU3IhTLjgGZd_LJebEFp2h3xT1BJCf81dKS2EhAONCJxPHOdlvx43ZKzPFtlGhRtLZ0tSkgAepiz6VfpyS_depps8g",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

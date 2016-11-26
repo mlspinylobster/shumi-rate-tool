@@ -1,0 +1,31 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Japan, 〒697-0024 島根県浜田市黒川町３７３８－１",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.9035163,
+               "lng" : 132.0947768
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b823894f1430d32ce5213130e04b30203db0815e",
+         "name" : "浜田市野球場",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107766688187264421010/photos\"\u003eIwami Kagura\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAACpr-7tNNQsNoLeNgEjNarFIkNfbuwG0RvOe-7Ke6uOtxLooumM-ZynQS6M_ZOTXghkV9bA7HnJKofVVDah_p2vUne5OAPitkHf1sK5bkhqzgJJhJluyI0S8wQusOfpszrLX-ldmKDUqNZuUrZRkQjwY4e_VadBsqQbIKqQc4-ghEhAs2_ajRv18Zrc5SCeRcablGhTLQCsYgg7_pe7zUZTAUa4_D40_ZQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJt4mZvOtZWjURtq3V9oy0e6k",
+         "reference" : "CmRSAAAAG5c3YvWXRuaXGOEARZY_VIwRNLDH0tHLa_WtFjHjcsxkOakGcn4fpvvzf5ey-ZEH7deA2EVCFzrni7_1nLTf_5sRQtxrt4wKowqLPrBCGtrRAl3oy4n-U_97PJ8BgFCvEhC0vx9JCcSQs3frgs9r0l6eGhSo4ydwYWTCVOgj51AdeH9PFfaswQ",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
