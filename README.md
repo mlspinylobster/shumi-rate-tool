@@ -2,4 +2,4 @@
 ## イベントバンク
 `$ php hogehoge.php イベント名`
 
-test
+test2
