@@ -1,0 +1,193 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Japan, 〒697-0061 島根県浜田市笠柄町６７",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.880098,
+               "lng" : 132.060991
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7d9eb14b827d770cb63e7426a8b5b9b446b8ffae",
+         "name" : "かめや釣具 浜田店",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115662689899938790859/photos\"\u003eミト\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADpkONk-Xs-gOWhszMrqEylXUDm8PiTSLGA3VtXDuniNlUMXa_LOV9G1CkfM5hC9NbVYz2JXV6t93eeU96OUBPe_rAGHdqGKhZUzOu0s2vd7IWcI2PEkVj30OaemGptoejtUmZ5MmljBVmG82K1OmfF351ZyvES0nwUhOd7CQpbgEhAsdEkwBiMhWpGikr1iwxNaGhQJ56mAM1gg_vQHRH0kKgJ1Zs-ZIA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJhToE_ZRXWjUReu1am6-RbGo",
+         "reference" : "CmRRAAAAX13th8A8G7hgcSZJzTqvDFEB0VLzdAFOCAjKbsY8-BgRRNMfzLcFtYylRyyQILvRIHDa875nJ6X3qaiY2skuPLzz1X7lglNno3Z0V_QSnUQfIoXg-SJqafJYfHktxu9uEhDyzBnvzNWEow7bRWhiNUGfGhSj_ZP8cnl8IK5OGDvAqGFtikXrlA",
+         "types" : [ "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "982-1 Haraicho, Hamada, Shimane Prefecture 697-0017, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.8835759,
+               "lng" : 132.0630321
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a920f50d4aa0cee3f130a250f962874fc8171259",
+         "name" : "アングル浜田店",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 439,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107969692014457846423/photos\"\u003eArata Chikazawa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA8PKNr46MUpAA04cFdbkB4IsAEuWKycOI1hcH0OZIz10olbVhRKdSm8BH3bQ84KFKYDNCaRNK_yF00yGePYg3j0N5ctjBH28ilPOXOAvedLmOJwg-gd5uwPZN_8mUHBfQgiVDiRYgXDlH7giWuu7uAg0moiVmmjv78h23wjngmgEhDdJDG2Z67xnPL97ZTy3iJxGhRZ7hYvE6VUuA3ThWFkNCtDijLRuA",
+               "width" : 874
+            }
+         ],
+         "place_id" : "ChIJb3FyzpZXWjUR0M84gQEQXHo",
+         "reference" : "CmRRAAAArEpnYWLvviBzCZ1_RWPAnvJknS14u5vFNFi_9kEG3GulP8nYsYLzvuM3mIzU-C3ppszHgbk3DlbMuRWE-RmJbuFheDXpxNsibQ68JB8Jz0-fFfhPK19J-ofJuP1Rr_gjEhBBgKN-DHcqaBv2Zl_OX-q9GhQ2_sRSdzsOj_NAFlFM-S4U-1X6sg",
+         "types" : [ "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "2327-1 Sugidocho, Hamada, Shimane Prefecture 697-0035, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.897614,
+               "lng" : 132.083658
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "aa8a8091bf7e3ae23b6bf08df4e6585bad5e5632",
+         "name" : "つりきち",
+         "place_id" : "ChIJVagNJdpZWjURcObr4pWMqj8",
+         "reference" : "CmRRAAAA0zMKJxaOIOLGgDbxaGwN1ABLEZZDun-E3cWYnH2ibz296XlbEkmYG3CJpY8uSjI3Dw1FFjWjO3fSUdy1tFpq4ePlMxXxR_PJ2pNgtHU175OC3VANWx0k5OpGpSmTX23TEhB5cx1HOfBdEZ8aQr1I5ktSGhR2BZrURvzIS4jVHpncSlnM1LbPKg",
+         "types" : [ "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "104-3 Tonomachi, Hamada, Shimane Prefecture 697-0027, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.9035158,
+               "lng" : 132.07172
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "21e6fe4d731e9ac3e3cc5ee2ed543c72e7fe9f01",
+         "name" : "新留渡船",
+         "place_id" : "ChIJwz3IXmRXWjURcvtc3bB5-Ig",
+         "reference" : "CmRSAAAA_hO-srls0ZJKlCAecU5XcNOTJm0x1qzMdRCiQfUvHHBVmyhxuifNPs42Blp_xkQWpPxRn1gHFuvoZDT_PktJqIz5mO31FTnuN5FEHWRAUr87qABV5U_38nh7xv7etHjoEhAbvmvZFAoLmBKD7vGYn59kGhQ1hO54urV3CTMrQ0Kp8EzT4-EHvA",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒699-3226 Shimane Prefecture, Hamada, Misumicho Misumi, 港 乗船 場所",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.782415,
+               "lng" : 131.928077
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3c29a06379bd8e50ecb55ce11281edfb70a924ec",
+         "name" : "山陰浜田 三隅港 「海宝丸」",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115642797249224399628/photos\"\u003e山陰浜田 三隅港 「海宝丸」\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALren9Jul0U-QDMP2a9_8mIxkSdIt7GNN8CVvx_NDIrOZdFMxdmioyC7_liawkEzvqiAzAxMdfiEaVLCjJ8D5Snbx0ry_-iR3hMPYxqXl0xbMul3ASN1Q7v6uFEYfA0HTxQ5GjlVdT_bMLuhB0MfZYSsYWvnl-gLuPSen7TKQvkkEhBgRdK8_La0rY_T9vdBy7SBGhRPr3RX5Rch0URBecnPhhAlF4INLA",
+               "width" : 1540
+            }
+         ],
+         "place_id" : "ChIJhc4iflMdWzURPn-g_1napxs",
+         "reference" : "CmRRAAAAArVne-2CI54tlZEYD_vedr-7cghzbUpA8TaPSjT5KrcM-RTDShkc7Qp339sdlu4hORd5mBnDCIXMpHUvY5xKKUcaZDybGNwwleTbrRmqXua6On-x5Z0pAlMpS3kCsZD0EhBprMc6QHY2joBYMRi2T2EAGhTnWUtmY1iX92SN-X6HiQyWfmJicQ",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "571 Tonouracho, Hamada, Shimane Prefecture 697-0001, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.91120699999999,
+               "lng" : 132.078944
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "567b1f9bbd9a938d0c250c06c5c764a192b18edb",
+         "name" : "（株）サンクラフト マリン事業部",
+         "place_id" : "ChIJ31v-8OFZWjURg2Bf5S60tpA",
+         "reference" : "CmRSAAAAwv1e1dAUgOUKwHCxmJC4D6ipGOgyexKNIxaTlKNG0pM50LUd02F7W-otq5c-HBGWrCgiF01ry9MW9rywzF2wm5Gn6r2QUFekawkWT_5LlHUFVZQHm76AH86WBXL1l278EhBPfBPFntZ5-mJ-BKaLID_lGhRCOl-XqRnkAHOwkJgxTuP8Mz179Q",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1 Chome-27-16 Yagi, Asaminami Ward, Hiroshima, Hiroshima Prefecture 731-0101, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.475553,
+               "lng" : 132.4897055
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b39e3fba8526efaceee4214c7f76c81ed2c4ed6c",
+         "name" : "釣具のポイント 広島八木店",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114466540685389073822/photos\"\u003e釣具のポイント 広島八木店\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKfNbcxA1g1K91yp3Q_2vXs6WOsB_r-d2-CNskoaq10dBg6ayHjFZmabw-PFwx-_D58PB5v_pRD7RMXL7Z1X1XOp3WwpKlQPZE_DZ1yXbRqFz_n2ZqVu-HIltrWyIkvPdLHMfwQH6ZqeITWqtZsOMsBRnfzsr-BBQXTOqArYYytZEhBeMhjaIcPaKbmxQrjyyLoLGhTviQ9llAvW6FQ3Fd-Gj9BDOe2T5A",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ8f9DAhWcWjURVhxxePXED2M",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAK5O3x6uF-ebIzumVMjzjmtaGN3oSYZoCEhS7GMkXliXv_2_4Jaf2Apo4xkfhW_wGtvYQNdFdj5B-HmfPHt0p8qKvATMNoyqBBeCwzii2QV5aWQldFSXcogy0csJpLfouEhAM1SyToBBscRWSfJ74fBBJGhTM0Z9p2Vfk1UHTd3icSTXEo3czQA",
+         "types" : [ "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒699-3502 島根県益田市木部町イ−1203−3",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.73933639999999,
+               "lng" : 131.8734803
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5dd72b8c8b5561769c3ffebc632c79da7557c5d0",
+         "name" : "磯釣センター かまて本店",
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109203070556785542093/photos\"\u003eナイトキ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANC_ZcurzZ1mnIYzIevS4H9KcF4gY2zk5IIQQdM2wxGhcnygVVo5rzy3VXUgAB-Yoe3B9s571zAxYZPuGsGTSfhfcDuubSgr0aKhf330FBfvVXn6DJRZANeJ-TvxWUr-Y6ykQUXRK7WT4U8MOXwKor_kkk8OwPdowr2IZkFrgV3YEhABt1c5xWZQfnZarMkLNcK-GhQSirSdt1v_ExkA0H7w33W9tofz1g",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJR85YwUkcWzUR3Cdw9eGiCP0",
+         "reference" : "CmRSAAAASe5HgC9xNXF2ukFB_78JulK-XJZ0BTVynWeJFj4J6CsfpsC-Yq3by79GjaRdFO0BqzNtvpTjlv6q47wSvTX4ZywbH6fuGLkvQMYS8BkiEoHVJ9xt5lVRPL3oZVZ48WQTEhAy1Qj4s0CyERtZECwhKrZNGhS3EOugUxsFcLns7vp1nly9dquTYg",
+         "types" : [ "store", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,393 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "4 Chome-1 Hyakunincho, Shinjuku, Tokyo 169-0073, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.7075129,
+               "lng" : 139.700723
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fc64b1ebaf022ee2960ce1ddcbef5c3fae0a453c",
+         "name" : "西戸山公園野球場",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102164858057318972928/photos\"\u003eＭａｒｒｙＹ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOLm_AsUndXijWKi-0823kZAser6934-Pp28LH5FeNMAjeSXTgGdBXzxOMBea7NqdRTT951G68Q656cBruV1D_xxd8ESXmmQ2ElLL5uDypKaurRYspbT0DxR3IOxp_rAwjnZCqMgE99dW308zN7OlTojCo5y1ZwuPQO__hayZQfOEhD9YASCcbo9P2DFsrAM1IJzGhT0rzARGYd95HO4-dVUFIcURWE5Bg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ41kqezCNGGARPBZTyPGgXoM",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAAGEHPPxU2V6Xn0CmLKpLSug9iDPtYxsT5CnXS6AJ3DMoVjeeRQcB96s2D0fWTcvyKqHhrUsc4CdDfkkt0a_SCE-8Ht8DEeOx9NlryxYfsLwLGIwp8RJc-nr-pI2UoUsAdEhCZa6qrCr7G8G-AYNF75fzFGhQWWia7wLWqGOk2ARQOFOAJ7TrouA",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "3-1 Kasumigaokamachi, 新宿区 Tokyo 160-0013, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.67451,
+               "lng" : 139.717049
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "296124a8f771afa9ffd17959f6e66beab1875e94",
+         "name" : "明治神宮野球場",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107179534732734505530/photos\"\u003ehideko iizuka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAN9TJAfCdi319mJhIijenz02DwCEkSVLKq6knicicSQ4piXs4PtCi7t4bBeRKJLo40ta2ETYje4KVEocnqwJUIa9IUdDaQbjpC40KZPfb6wVPRztGoYfAiDaHjpp6p1crWsNA0fuDoabBSrpRU3UMcrdZ_Oph0xggS5mMDO6ksDoEhB0-wAIlt_QgWrYxqwth4vqGhSoS89zXF4mcwdHtTwOVCEXJRtthA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ9fMjGZqMGGAR2KiXD6tc_vg",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAxW9oB8bBM-doZtzcBC8g_Ag9i2bVaQ-gK74r-3aoF1kGtFQSwDSKpExByBbk1QnWxRh0Ahxo5sqy8X2AavnPkybMVn6LG8UK0i8YRv145lb1T3Z5SYa752QMMq62-ZHEEhDxdyy_A1ojD1UZlJCuRSQBGhQAe-1PD8incCXeMsFeZmrnUKsnPg",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "2 Chome-19 Nishiochiai, Shinjuku, Tokyo 161-0031, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.7202752,
+               "lng" : 139.6760368
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e1b975c2ffaec37867d6662191940a7d45ba24c6",
+         "name" : "新宿区立西落合公園少年野球場・庭球場",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106365698557906455301/photos\"\u003eShigeki Itoh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABe2_JiSkFFTbVnbFAhn_Dm13yhP3qFIy6P1MctvpJIO0RFuw7p2VfoZOtBI4pKeb-n5xO1faU7yVuJwyiEtUbQ9ffH22yF_HNmIiuaif_jzz_Bvg8BWI793o6wohcvhSRTroaBoB8GkwXQg8-pIHhhzj5LpYOmG3qz6ACXoy1_cEhCehlSmnNrJQsuMl-RB_BRAGhT0PM1In5x9LBG9GLcs52aZrwT-XA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ9Y67zabyGGARUkgJbeB5BIs",
+         "reference" : "CmRSAAAAy81wgf09BmiexCe6iRNTkUD5CHsNrM6x1AlWVgZCAWy20x1ERVetR2JAo_1uk8a7UoLp-O7WUGgMhNvBTq8gtffg264tp52qry6SQrdnzjRGPoIIwY6lZkTEZyfel1eyEhDuxnilXyLXU_MBnjcJXwy_GhSU5DlsyZEopTNbBhq5fgR9mEkJvQ",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒161-0034 東京都新宿区上落合１－２",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.7120052,
+               "lng" : 139.6931041
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d9fb2a25c7f35a8e19f5bd5c66ddb4cccf77e41a",
+         "name" : "落合中央公園野球場",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109463001801166904127/photos\"\u003eMasahiro Yamamoto\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIlustFYMC1yZuDU2oPNvSbm7pspPToQLhxi0w-TIVgCGIcrtlQJo5ALJN_sSYcHi7yVejDMrCpviR-SmhywCT1d76buweGo9_qn8NVyvFsQ2QPFA5EkstI63uW6vBLJKde2158-3Bhl3MrOUyLcRuMQGvFUE_mCMo3P6lmwj3OvEhDhzj7x4k34Mxgzpb4nYaATGhT3IeZ20LYxrzr1pO4e0kUjZSelKQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJBSlbg0qNGGARtTCsmGGZ_UI",
+         "reference" : "CmRRAAAAH6f4RmM2aDmmyCXE9dnEaRw_WDlB5uxKHQZx33Qb2O1oqOJxMEmQtNJO2hD5qxHa3tGZ2m_vcE3na-JPsEAPhstRX5GGRq_jHQvPhMDjFfTEoji3PJn87KZOKD0uc3n7EhAIp2UcJvfYqBBnGdy3IR_7GhRt0cYdMkZZ_bTMy00Bjq0UcovCGA",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, Tokyo, Shinjuku, 2 Chome−15-29",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.6905265,
+               "lng" : 139.7099201
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "3f5a534cb03af8342b8a07100ecb25a385e20637",
+         "name" : "野球専門店 スガイ",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3240,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107804304792480228126/photos\"\u003eさへきひろのぶ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAKteOiP5aM1xueQD3hv5nepWtGlqQIeUsqpUxH6qz9q564aLUBrmpIi68AhkXXDs5OOole4BdagyYrRaROlUUdzRBxUCCQXgKsjNq7uMvFX83DrQsEWuf9-YKolHx8228T9yEp4ec_EUyzgWVB_Ro5UqUoHHp0PHPW4p2nfepCQEhDzCznLSCudRykPVXIpJiuXGhRE5dTggWJ0CrAf6FCQtfTj077kWQ",
+               "width" : 4320
+            }
+         ],
+         "place_id" : "ChIJ6azuzsKMGGAR3VBIX45wwOo",
+         "reference" : "CmRSAAAA8bkr0b7uR_yOAAa8zK6pZBc2ICfx2d6iZrJTn6BVOwSp9PYdc7e8OHMO10h2M2GY60vWgn7kzxbX9ptNApAxNaj8uhti0HBThz_vJOCn6SPBSEGBTNMnCqI9zTk0DD1oEhAeYGewZhBvM-22jeXP-zIFGhRKkJ_hkn3rpY21zOQ5rPgr4oZTaQ",
+         "types" : [ "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒160-0023 Tokyo, Shinjuku, Nishishinjuku, 7 Chome−22−37, ストーク西新宿福星1F-105",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.696262,
+               "lng" : 139.696389
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "31a8acdf49e2ac116cb3dafab6249ebdbc8c6aac",
+         "name" : "セレクション 新宿店 メジャーリーグ 野球用品",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115623250659075179300/photos\"\u003eセレクション 新宿店 メジャーリーグ 野球用品\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAM5JERJEmbOjFPnb0ZdA0y8jpain2-1wdKZzRdu-I-aI9e72ZnGos9Kbzqsylg4lVAC9HUtxM2k7D4GyAnG77YXCufknnxeMNzzjkor1BERW271XV5NBrJ4qkv9KokTyd18z9RyGXHG81QtpjjWKNxsTXgmQvBKS-ZLPM9e0VOYLEhDvvJWGH4vCFsuHXFWrn0tBGhRnJoavwSykErnzSeXfohsaV76Vwg",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJZTmmiSmNGGARJfTWCehziYw",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAArhHgtjmddOfr6SZUbSGlV8eBZIkNj9VNNlEqWBhKKcSysRROq0HXfop4XxiQt3vaSIZsos7aQXoObWAhS66ojRLP9dsyQ4xvYgiXvVGOvH7FEA1ijFDV94OME_Hw50ETEhAPF7R-ABxijaRSKdIkS_b1GhTuNqndYeyS44WM1cZRbIVU2eitTg",
+         "types" : [ "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "2-3 Kasumigaokamachi, 新宿区 Tokyo 160-0013, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.6769214,
+               "lng" : 139.7183905
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f34c3a249f386f79eb109c3a3faac5b52d1bfc7b",
+         "name" : "明治神宮外苑軟式球場",
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112848879157238222888/photos\"\u003eKWEN KWEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAE1Xnff2T3x-w5fJBqFimtkge45-eK6lMnk0sWc8yktmDpezwCEdxJbJSjCVEGQpFuQ2fi59X8HSmO7hVjE0JLbCrt_3ySn8nQpjJuiSGb4JCK3GWfqPUZvL5kv_BUOeVNB0td1gX6CSiY9j_gmqtfv7taK2lIBtxrTG_sQiCgCvEhCxSutX0Juqp1iBj8WR7OWPGhSv9G4zFFB3yureIXw-Z6SdVcyeJQ",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJf3FLuZCMGGARFraTLMq5TWE",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAABQrOd8Nu85bLEBPXmUdoZsCbA0y2jkP4GaqCr0VEOjkDp6IT8DHBEBhVu9rv6XBP7e2gxFQ0Dm_g5oWtZYW2MPHfACi_DLEBnajPu2HE949-n7RFSywOjS1g0ywTIB3BEhDCsIUseZM0youboHET5ptwGhQqtqmlym20N2yLhXoMyxIeB5Xq4g",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1 Chome-2-40 Kamiochiai, Shinjuku, Tokyo 161-0034, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.7124741,
+               "lng" : 139.6931886
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "39776c377549a6cade72826807b988b67c25ba6a",
+         "name" : "新宿区立スポーツ施設落合中央公園野球場・庭球場",
+         "place_id" : "ChIJBSlbg0qNGGARmPJpotF0A9c",
+         "reference" : "CmRSAAAAuFDZub2-ohqT-FAsooUKM21bDgJi3HLSb8uAdM6bWswDfCrBwJLq0wBCMqg9Nado7OBafX0N9Mj1tUzPoQzPutZgQPMmke22sCUgCEALj86kWiAZkmeTQv7UHU5idkrnEhAPXsLOmlwoi7hpmz39iAPuGhRuaKECZi2YHcVfHOT0RSl0N4KYng",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒162-0824 Tokyo, Shinjuku, 揚場町2-17",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.7028322,
+               "lng" : 139.7426369
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8c6533ce451849e23a6757f33154fa7e224c989a",
+         "name" : "BASEMAN 飯田橋本店",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3240,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107804304792480228126/photos\"\u003eさへきひろのぶ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOJgb-CG8izo62-DfTmMN45qPLDWwX0ya-LqMwzeROid1C5RULq_NBKVdu-b5P-e4guMVjonY1EPwbSBbDW0jDvquXws8ovpymu0BMhV00152lJK0pTDMF4MwF7C1vIFGyXy02ekoG3V9fClkZHazj6Lp9ze1Krspx_tlZu5Ev8fEhBA0y19fgt5-Yq-q6tGA__hGhTKJMp3jeIuVCSu4Zr52o6V0b0qwQ",
+               "width" : 4320
+            }
+         ],
+         "place_id" : "ChIJTVTyNkWMGGARiAMcVrsKEC8",
+         "rating" : 4,
+         "reference" : "CmRRAAAAkHyxwLiGI5QsVZDgDKZzpreuHaVzlt-sKZ03ib5IIX-NC4vSOsie0hKaSb5iBZA4xf452g42dhPIWdArg5d9uYlfsU4is9GYxE2jr1srlas7xJivj3owAhO-vA2R6hnYEhC2ASQ_5_qpHMkclfZ3YnbiGhQ2aDz90kXiK_oSp3DyLmdT5BZJkw",
+         "types" : [ "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "3-2 Kasumigaokamachi, 新宿区 Tokyo 160-0013, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.6760193,
+               "lng" : 139.7161631
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f3906e2bbf5df1d257262552c4c7d4d61b5ea23e",
+         "name" : "神宮第二球場",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106290371096848367486/photos\"\u003e関口宏二\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAH6wXEz_6dAbsMiR8sw7sWqB792BHyeDQXtZ3dBNc4yGK5HDHvAHdkN7IpFPhwnKGmLJliUHYYOhysX-Nw8_uhsE3jT3pcBemedv4J789hvJH7kEnxA_FMI_2e8NzIg_1HOPte-DmoTm2gDYb6UA7bn4KTD9GHhcOtmtvRIR_CezEhBJzlmJOliUjQI3u7irjr0XGhQjL4nqaoVdg4oKJjPCbys4y1mTxA",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJmxHRSJeMGGARMwH5Ro8GC9M",
+         "rating" : 3.6,
+         "reference" : "CmRSAAAAOVOz-ISit33fWrCKlRbEa4ZAdcVZOw08jhNF_DYsHbuahFG6xAtUCYj2rSARRxXCvDoD4UQ8Qn7BETr6rAPXae_4-PpwCU3ub5mhGQXMrgreTEWmLZ5sb-pghc5bOuD0EhCmYQD6mCvtKHE0CCJizLpuGhQJAMsBFNSH2hSe7_tsLq84Uq7G2Q",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "〒162-0824, ２-１７ 揚場町 新宿区 東京都 162-0824, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.7027734,
+               "lng" : 139.7426298
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "30f02033980ddb6d4626107f5f8d79b8eb362f06",
+         "name" : "野球専門店ベースマン",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ___rNkWMGGARvgheG95Scoo",
+         "reference" : "CmRSAAAA2zzPV3SnSSobUPN-cAhj8z-QTWwY-D0b9BH01pT5KJwxicSEHdvywcR3-aXSFjUX7wkqRl6vtZFt6p2HtdonWZEIuV1CH1tRDznkYok4Fpu4CNu5LLml8NiRewPaKsPOEhCK9CV7StRZbjP9eXAU0pJSGhSM93DsgTC-3Cau36qTieMAhJsEGw",
+         "types" : [ "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒160-0014 Tokyo, 新宿区内籐町11番4",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.6892864,
+               "lng" : 139.7053647
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "11d385e3cc81062ac44796373d5e4e2e0b12bcb6",
+         "name" : "東京都立新宿高等学校",
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105603294701906062099/photos\"\u003eTori Dori\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANLRS9UgYJSn652zY4_98jwiZ89fAocDZPmQLGLCH3tflc4fGop4wliYZzx7TlVJM63y-dvE25XEVxd-NdeAcPMnu19rTyKT49Rn_758vm1G2tWrcX6Jd-FQFq7FhwXmQgfgYuhdYKueGUStCWEjUcxzVbAfHRl6228XD3AIQUE2EhA-35ErTvJ4-Nb7NMrbxSRrGhQ-GXFTG_X__G5S6cG6vsrskmII4Q",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJXe4GS9uMGGARfOG_cXqoA1Q",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAyY6qbWJuE3SaQfzT6zur1OPiOLaWa78ndhXajvlpihWh3swtqys6KqMgW8_5OReCFeIcnriJGnlaZXiiMZcnpAdCM1uzk7Osrxp7QhL6FR12MHtzv7jp71N8J2-CQQ7fEhCGNuzJUzlylXTaRcHTBukEGhQR2lJmzAK6HJbGEbuA1HwwNp573w",
+         "types" : [ "school", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒160-0023 Tokyo, Shinjuku, Nishishinjuku, 1 Chome−3−15, 栃木ビル 3F",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.6933824,
+               "lng" : 139.6984296
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "df4bbcca66ab33fff2af8bbe0931cb778d720461",
+         "name" : "ベースボールときわ",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1067,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101860115855166215693/photos\"\u003eGangseuk Jo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABuwKuNU3Ep10hB-wxu81ceXMZYkfbiUM1t5d3nIkkXJhFz_H3ydYxm4PwYdcJ8w7KMeUOtLW7HCEdJiHlUDnQ02h_rLTy0QvTyBxslIbtJpSf4IiQF9lrdkcd4DqpAvX0HSXKrvDCwTD4anD3FqLObw3kEXzeVcemQo4WahGnaFEhCAwjRs50QN5j89oxaHREYgGhQIzQSxg0dUP6dqT46mlJ_uQ0X42Q",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJUxduVtaMGGAR4wxakzdWOf4",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAMa5jY-DtEXqlKob_O9bsILLDDwLyF7zvvWQ2M3diudBZD-T5JKvb0taGIiAkQidP0mT-cew_FxfyBwVTMupXSOsiYnQgxuk5HYyM5AS2fOdnbIDk_meXl-E9HEeUboLvEhBpNYw02hmfkXkVvOU600ytGhR5HZPyHH-CryquoFA6lNRrPgHRlw",
+         "types" : [ "store", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "3 Chome-12 Yotsuya, Shinjuku, Tokyo 160-0004, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.68764609999999,
+               "lng" : 139.7192459
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "00edc6fa4144c566c99826256758e3a6b487ca82",
+         "name" : "あぶさん",
+         "photos" : [
+            {
+               "height" : 3240,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107804304792480228126/photos\"\u003eさへきひろのぶ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOdgDdLirshkStuP8TK1d1cRTvjWGPhGtZBpF4Cgl4uZLuQ39MCwLPjJVqqJuqWMNNDqJmUsLwdYC32oMN_XTSGlefBbc0GWYQYTc_ZjlVzAGa0Qfx7PBVtS_Pai2AxiDm0UIFk2kJba0KNOk1vhCaXCRQwHFcsidu9eh900XJgjEhCWeL9RSQdEfhoD3NRMQK97GhTKrd-AUUiY-KDIgo47O_TA5I1mww",
+               "width" : 4320
+            }
+         ],
+         "place_id" : "ChIJc6niAe2MGGARBwjz2vJGhEc",
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAfz44b1uSZZeeISj1NPNgxL_ToB8454gP-39jgflwyQw0ch8LaRCGCN5j-YdYPueyjo2uc4MJ5CxOgdIIFGuCZ0ruM0TNKNu7Kn3eG3pV9n0DTiNmZNn1xdWAEhNz1eTlEhBnl7lfwdMAArSBy6I9v8E-GhSpNU7f4KSQUHuFfsMTnCFW_B5i4Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Japan, 〒160-0013 Tokyo, Shinjuku, 霞ヶ丘町2-4",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.6766954,
+               "lng" : 139.7176265
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "675d31412a55ed19bafb37c3c9a931770996aa51",
+         "name" : "明治神宮室内球技場",
+         "place_id" : "ChIJn7TSvpCMGGARwHpQJqBqTvY",
+         "reference" : "CmRSAAAAQbVoYsObl2dQwXwFXGRRgVx9EDOXv_16doGoDUJFwPIcrfGv1wSNaMLuSBFW04GWmi-my1UMSEB1cvhXYGfSzXLPwa3mK1KFu_MwkFRDP5DqCMNGnL8hR3tVoV-CVUIQEhB6kq6HFaKtvq7Omlg-WRmFGhQ36iYqowNNqbXXqY8hgDjsipQ1qA",
+         "types" : [ "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,62 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Japan, 〒150-0002 Tokyo, 渋谷区Shibuya, ２−２２−８ 名取ビル",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.658486,
+               "lng" : 139.703506
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "07f3f626ec71e64dc382e1c4694e78641ae35e24",
+         "name" : "Tokyo High School Baseball Federation",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114679214394573969571/photos\"\u003eKa Ka Tai\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALYAXk4m9Ij_y9ylH1vDq5WH7p6jKj3yTdzj51H7PDPqTWfMhKJZSGgMSOFv5LBxgu8gyInNDRAIPOu1VzPeSrrnsaLHpTlopNmfmJ-Vhcgcr3JBsTok0oFGdtIJ7wnii4euenZupRWkTBMtKVu9zN84CPnnuyk8PS5r8trdS5NREhASHlJncBb5mn-LmFLQBi4rGhQI_DD6oU1ZhXz_Tld9D9TawAQ7yA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJeTuTrFmLGGARosxb7HyVJtM",
+         "reference" : "CmRSAAAA625PbPyW2z-IZRfeZFvZmsH7zemRWB4k3wsN67U3ntgwbENsBkadXrvUIRZG8Tj7yeX_pYmGlKCXqT_VA_cNlHNK4R9Q9dWsPQ4-C2woFcxFAjrWJVbfqT66AWvWSHh7EhD3VP1CYUZaAH0cD15s3AfTGhQD4cvecdCVP1tN3GZd7oySn-_w1A",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1 Chome-3-61 Koraku, Bunkyo, Tokyo 112-0004, Japan",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.70563959999999,
+               "lng" : 139.7518913
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "391b8287594fb79edc8411898592ba17dd6ed1ae",
+         "name" : "東京巨蛋",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112921708946131815824/photos\"\u003eJosef Trajer\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJKJ9CSBCAQogxrIQxmOH5Vhcvh4eHQ-OafHung2bcJCtRG5Y7ZcRGUPBVtHWxjVroaznsCAmZNd3FwpaON_d1MdP5_oIjhr9Z03gP04wf8xU84hascWT5QExVp5gZ5fS72JbRxLVmtC6EuaLu_OvEP70Z086AmPG1ZfhrngmntzEhC3MKTbjcw0UBRzrGt9eK61GhRn3rlLluLu_YWIKS85TL-9jd4o5Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ89TugkeMGGARDmSeJIiyWFA",
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA8vatq-8y4wrNGGpu2_N5Y2O7zvewgzvTIBH0mWYL-we1TkhigK2f-kSq4Rj-0kPqaa65JNqVETjZjaI_J9LMYq6VPL_uccoeaRkEiYad8x8_7E7sz6C0AavyhyCIUjSWEhAZglVT4e5N_mcHUGkhSUPsGhSGuT2AQ412aampF5ueCgJua1SWBA",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
