@@ -6,10 +6,6 @@
 ## APIキー登録
 1. api_key.json.orgをコピー、リネームしてapi_key.jsonにする
 1. Google Places API用のキーを"GOOGLE_PLACES_API_KEY"のペアに入力
-1. イベントバンクAPI用のキーを"EVENT_BANK_API_KEY"のペアに入力。
-
-## イベントバンク
-未実装
 
 ## GooglePlaceAPI
 1. queries.jsonに検索したいキーワードを記述、utf-8で保存(文字コードの問題の苦肉の策)
